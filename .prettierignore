@@ -1,0 +1,10 @@
+#ignore artifacts
+.next
+.vscode
+.node_modules
+
+
+#lockfile
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
