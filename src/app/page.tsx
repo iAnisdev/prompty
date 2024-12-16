@@ -1,5 +1,4 @@
 export default function Home() {
-  
   return (
     <div>
       <h1>Prompty</h1>
